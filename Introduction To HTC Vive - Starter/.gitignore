@@ -1,0 +1,26 @@
+Introduction To HTC Vive - Starter/Temp/
+Introduction To HTC Vive - Starter/Library/
+Introduction To HTC Vive - Starter/[Ll]ibrary/
+Introduction To HTC Vive - Starter/[Tt]emp/
+Introduction To HTC Vive - Starter/[Oo]bj/
+Introduction To HTC Vive - Starter/[Bb]uild/
+Introduction To HTC Vive - Starter/[Bb]uilds/
+Introduction To HTC Vive - Starter/Assets/AssetStoreTools*
+Introduction To HTC Vive - Starter/.vs/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.pidb.meta
+*.apk
+*.unitypackage
+sysinfo.txt
