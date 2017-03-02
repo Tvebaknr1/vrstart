@@ -75,6 +75,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Resources\Scripts\Billboard.cs" />
+    <Compile Include="Assets\Resources\Scripts\EnemySpawning.cs" />
+    <Compile Include="Assets\Resources\Scripts\Health.cs" />
+    <Compile Include="Assets\Resources\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Resources\Scripts\PlayerOptions.cs" />
+    <Compile Include="Assets\Resources\Scripts\myNetworkManeger.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\controller.cs" />
     <Compile Include="Assets\Scripts\grappy.cs" />
@@ -183,6 +189,8 @@
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
     <Compile Include="Assets\gunInformation.cs" />
+    <Compile Include="Assets\player.cs" />
+    <Compile Include="Assets\testing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
